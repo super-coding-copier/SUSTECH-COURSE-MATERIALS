@@ -1,1 +1,3 @@
 # SUSTECH-COURSE-MATERIALS
+
+建议用obsidian 打开
